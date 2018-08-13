@@ -17,4 +17,24 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1 {
+  color: rgb(152,173,166);
+  padding-top: 10px;
+  margin: 0 0 5px;
+  font-family:'Baskerville';
+  font-size: 5em;
+}
+
+#main img {
+  border-style: solid;
+  border-color: rbg(152,173,166);
+  border-width: 5px;
+}
+
+h2 {
+  color: #555;
+}
+
+
+
 /* Write all remaining styles here */
